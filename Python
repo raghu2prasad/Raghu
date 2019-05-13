@@ -1,0 +1,10 @@
+Numbers: Data type. it can hold integers and floating
+
+Strings:Sequence of chanracters with in single or double quotes not mutable
+
+Lists:Sequence of data types with in square brackets. Lists are mutable
+
+Tuples:sequence of data types insideparanthesis. cant be mutable
+
+Dictionaries:holds data types with key value pair values.
+
